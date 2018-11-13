@@ -1,0 +1,12 @@
+---
+title: "Maryland Housing Inequality"
+author: "Ruthe Huang, Xinye Li, Emily Scott"
+date: "December 14, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+# Frisbee is a good pup
